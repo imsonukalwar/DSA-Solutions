@@ -8,6 +8,7 @@ solution of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ solution of leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -31,4 +33,5 @@ solution of leetcode
 |  |
 | ------- |
 | [0015-3sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
