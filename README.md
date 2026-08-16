@@ -10,6 +10,7 @@ solution of leetcode
 | [0015-3sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ solution of leetcode
 | [0015-3sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
