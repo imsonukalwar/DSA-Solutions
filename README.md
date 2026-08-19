@@ -14,6 +14,7 @@ solution of leetcode
 | [0075-sort-colors](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ solution of leetcode
 | [0125-valid-palindrome](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0443-string-compression) |
+| [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -39,6 +41,7 @@ solution of leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +49,7 @@ solution of leetcode
 | [0016-3sum-closest](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -54,4 +58,8 @@ solution of leetcode
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
