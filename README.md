@@ -15,6 +15,7 @@ solution of leetcode
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,8 @@ solution of leetcode
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
