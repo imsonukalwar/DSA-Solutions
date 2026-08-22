@@ -38,6 +38,7 @@ solution of leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0443-string-compression) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +68,5 @@ solution of leetcode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
