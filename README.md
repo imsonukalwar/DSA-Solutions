@@ -21,6 +21,7 @@ solution of leetcode
 | [0904-fruit-into-baskets](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ solution of leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Two Pointers
 |  |
 | ------- |
