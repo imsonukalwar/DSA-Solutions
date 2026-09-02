@@ -16,6 +16,7 @@ solution of leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0724-find-pivot-index) |
@@ -31,6 +32,7 @@ solution of leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0904-fruit-into-baskets) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Two Pointers
@@ -99,6 +101,7 @@ solution of leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
