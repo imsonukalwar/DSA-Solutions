@@ -26,6 +26,7 @@ solution of leetcode
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1991-find-the-middle-index-in-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [3903-smallest-stable-index-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,5 @@ solution of leetcode
 | [0974-subarray-sums-divisible-by-k](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3903-smallest-stable-index-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
