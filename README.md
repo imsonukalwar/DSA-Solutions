@@ -28,6 +28,7 @@ solution of leetcode
 | [1991-find-the-middle-index-in-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3903-smallest-stable-index-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ solution of leetcode
 | [1004-max-consecutive-ones-iii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
