@@ -14,6 +14,7 @@ solution of leetcode
 | [0053-maximum-subarray](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -132,4 +133,5 @@ solution of leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
