@@ -36,6 +36,7 @@ solution of leetcode
 | ------- |
 | [0001-two-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -61,6 +62,7 @@ solution of leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0443-string-compression) |
