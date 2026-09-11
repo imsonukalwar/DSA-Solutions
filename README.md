@@ -29,6 +29,7 @@ solution of leetcode
 | [0974-subarray-sums-divisible-by-k](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imsonukalwar/DSA-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3903-smallest-stable-index-i](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -141,6 +142,7 @@ solution of leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
 | ------- |
