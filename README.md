@@ -72,6 +72,7 @@ solution of leetcode
 | [0438-find-all-anagrams-in-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3498-reverse-degree-of-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,4 +159,8 @@ solution of leetcode
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/imsonukalwar/DSA-Solutions/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/imsonukalwar/DSA-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
