@@ -169,4 +169,12 @@ solution of leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
