@@ -63,6 +63,7 @@ solution of leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0611-valid-triangle-number) |
+| [0876-middle-of-the-linked-list](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -173,6 +174,7 @@ solution of leetcode
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/imsonukalwar/DSA-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
